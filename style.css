@@ -110,9 +110,9 @@
     font-weight: 600;
 }
 
-@media (max-width: 700px){
+@media (max-width:616px ){
     #heading{
-        font-size: 8rem;
+        font-size: 5rem;
         letter-spacing: 3px;
         color: violet;
     }
@@ -122,7 +122,7 @@
     }
 }
 
-@media (max-width: 400px){
+@media (max-width: 522px){
     #heading{
         font-size: 3rem;
         color: aquamarine;
